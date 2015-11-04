@@ -1,4 +1,4 @@
-helloworld-html5: HTML5 + REST Hello World Example
+helloworld-html5: HTML5 + REST Hello World Example 
 ===================
 Author: Jay Balunas, Burr Sutter, Douglas Campos, Bruno Olivera
 Level: Beginner
