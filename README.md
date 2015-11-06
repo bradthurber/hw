@@ -1,3 +1,6 @@
+[![Stories in Ready](https://badge.waffle.io/bradthurber/hw.svg?label=ready&title=Ready)](http://waffle.io/bradthurber/hw)
+
+
 helloworld-html5: HTML5 + REST Hello World Example 
 ===================
 Author: Jay Balunas, Burr Sutter, Douglas Campos, Bruno Olivera
