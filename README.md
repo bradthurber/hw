@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/bradthurber/hw.svg?label=ready&title=Ready)](http://waffle.io/bradthurber/hw)
-some more edits whee
+some more edits whees fd sfd sdf
 
 helloworld-html5: HTML5 + REST Hello World Example 
 ===================
